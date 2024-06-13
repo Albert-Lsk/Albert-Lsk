@@ -14,8 +14,7 @@ Hello there! 👋 I'm [Albert-Lsk], a [Robotics Engineer] based in [ShenZhen-Chi
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/%E6%88%90%E6%9D%83-%E5%88%98-1670a6200/)
-- [Twitter](Your Twitter Profile URL)
-- [Website/Blog](https://blog.csdn.net/AlbertDS?type=blog)
+- [CSDN Blog](https://blog.csdn.net/AlbertDS?type=blog)
 
 ## My GitHub Stats
 
