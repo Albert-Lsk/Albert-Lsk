@@ -1,6 +1,6 @@
 # Introduce Yourself
 
-Hello there! 👋 I'm [Albert-Lsk], a [Robotics Engineer] based in [ShenZhen-China]. 
+Hello there! 👋 I'm [Albert-Lsk], a [Product Manager] based in [ShenZhen-China]. 
 
 ## About Me
 
