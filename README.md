@@ -4,10 +4,10 @@ Hello there! 👋 I'm [Albert-Lsk], a [Product Manager] based in [ShenZhen-China
 
 ## About Me
 
-- 🔭 I’m currently working on [Robotics Research]
-- 🌱 I’m currently learning [Robotics]
-- 👯 I’m looking to collaborate on [Industrial Robotics and Artificial Intelligence]
-- 🤔 I’m looking for help with [Robotics Development]
+- 🔭 I’m currently working on [Artificial intelligence (AI)]
+- 🌱 I’m currently learning [RPA (Robotic Process Automation)]
+- 👯 I’m looking to collaborate on [RPA (Robotic Process Automation) OR (No-code/Low-code platforms)]
+- 🤔 I’m looking for help with [RPA (Robotic Process Automation) OR (No-code/Low-code platforms)]
 - 💬 Ask me about [about MATLAB and Robotics Simulation]
 - 📫 How to reach me: [hust.lsk1995@gmail.com]
 
