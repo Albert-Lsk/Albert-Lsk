@@ -26,3 +26,4 @@ Hello there! 👋 I'm [Albert-Lsk], a [Product Manager] based in [ShenZhen-China
 - Tools & Technologies: [Robotics technology, gazebo, computer vision]
 
 Feel free to reach out and connect with me! 😊
+![dino](https://github.com/user-attachments/assets/65d9e9e8-4d47-4b1d-99a0-cb7f44b7f7e6)
