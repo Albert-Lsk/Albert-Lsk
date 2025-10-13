@@ -1,4 +1,4 @@
-# Introduce Yourself
+# Introduce Myself
 
 Hello there! 👋 I'm [Albert-Lsk], a [Product Manager] based in [ShenZhen-China]. 
 
