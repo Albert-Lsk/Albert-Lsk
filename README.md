@@ -18,7 +18,7 @@ Hello there! 👋 I'm [Albert-Lsk], a [Product Manager] based in [ShenZhen-China
 
 ## My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk&show_icons=true&theme=radical)
 
 ## Skills
 
