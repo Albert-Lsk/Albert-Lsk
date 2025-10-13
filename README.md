@@ -17,7 +17,7 @@ Hello there! 👋 I'm [Albert-Lsk], a [Product Manager] based in [ShenZhen-China
 - [CSDN Blog](https://blog.csdn.net/AlbertDS?type=blog)
 
 ## My GitHub Stats
-[![Albert-Lsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk)](https://github.com/anuraghazra/github-readme-stats)
+[![Albert-Lsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk&commits_year=2025)](https://github.com/Albert-Lsk/github-readme-stats)
 
 ## Skills
 
