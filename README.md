@@ -17,9 +17,8 @@ Hello there! 👋 I'm [Albert-Lsk], a [Product Manager] based in [ShenZhen-China
 - [CSDN Blog](https://blog.csdn.net/AlbertDS?type=blog)
 
 ## My GitHub Stats
+[![Albert-Lsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk)](https://github.com/anuraghazra/github-readme-stats)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk&show_icons=true&theme=radical)
-![Albert-Lsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk&show_icons=true&theme=transparent)
 ## Skills
 
 - Programming Languages: [MATLAB, Python, C++, Ros]
