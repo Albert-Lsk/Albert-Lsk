@@ -19,7 +19,7 @@ Hello there! 👋 I'm [Albert-Lsk], a [Product Manager] based in [ShenZhen-China
 ## My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk&show_icons=true&theme=radical)
-
+![Albert-Lsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk&show_icons=true&theme=transparent)
 ## Skills
 
 - Programming Languages: [MATLAB, Python, C++, Ros]
