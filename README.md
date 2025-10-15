@@ -15,7 +15,7 @@
 </p>
 
 <details>
-<summary><strong> Mở ra Hồ sơ tiếng Việt / Click to expand English Profile </strong></summary>
+<summary><strong>Click to expand English Profile / 点击展开英文简介</strong></summary>
 <br>
 
 Hi! I'm Albert, a Product Manager based in Shenzhen, China, with a passion for the AI revolution.
@@ -25,7 +25,7 @@ My career has been a journey of 'cross-disciplinary growth'—from the systemati
 ### 🔭 What I'm Currently Focusing On
 
 -   **Mastering the AI Full-Stack**: Continuously exploring and implementing a wide range of AI tools—from LLMs and image generation to automated workflows—to discover best practices and innovative combinations.
--   **Building Powerful Automation Workflows**: Using RPA, No-code/Low-code platforms like N8N to connect disparate systems, break down information silos, and eliminate repetitive tasks.
+-   **Building Powerful Automation Workflows**: Using No-code/Low-code platforms (e.g., `Coze`, `dify`, `N8N`) to connect disparate systems, break down information silos, and eliminate repetitive tasks.
 
 ### 🛠️ My Skills & Toolkit
 
@@ -38,7 +38,7 @@ My career has been a journey of 'cross-disciplinary growth'—from the systemati
 -   **Large Language Models (LLMs)**: `ChatGPT` `Gemini` `Claude` `Kimi` `Grok`
 -   **AIGC (Images/Video)**: `Midjourney` `Lovart.ai` `VEO3`
 -   **Workflow Automation**: `N8N` `Coze` `dify`
--   **AI-Powered Dev Tools**: `Perplexity` `Cursor` `VScode`
+-   **AI-Powered Tools**: `Perplexity` `Cursor` `VScode`
 
 #### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,7 +63,7 @@ My career has been a journey of 'cross-disciplinary growth'—from the systemati
 </details>
 
 <details>
-<summary><strong> 点击展开中文简介 / Click to expand Chinese Profile </strong></summary>
+<summary><strong>点击展开中文简介 / Click to expand Chinese Profile</strong></summary>
 <br>
 
 你好！我叫刘成权 (Albert)，一名坐标深圳的AI产品经理。
@@ -73,7 +73,7 @@ My career has been a journey of 'cross-disciplinary growth'—from the systemati
 ### 🔭 我当前在做什么 (What I'm Focusing On)
 
 -   **驯服AI全栈工具**：持续探索与实践从文本、图像、视频到工作流的各类AI工具，挖掘它们的最佳组合与落地场景。
--   **构建自动化工作流**：使用 RPA、No-code/Low-code 平台（如 Coze、dify、N8N）连接信息孤岛，打造能解决实际问题的效率倍增器。
+-   **构建自动化工作流**：使用 No-code/Low-code 平台（如 `Coze`、`dify`、`N8N`）连接信息孤岛，打造能解决实际问题的效率倍增器。
 
 ### 🛠️ 我的能力基石 & 工具矩阵 (My Skills & Toolkit)
 
@@ -86,7 +86,7 @@ My career has been a journey of 'cross-disciplinary growth'—from the systemati
 -   **大语言模型 (LLMs)**: `ChatGPT` `Gemini` `Claude` `Kimi` `Grok`
 -   **AI图像/视频 (AIGC)**: `Midjourney` `Lovart.ai` `VEO3`
 -   **工作流自动化 (Automation)**: `N8N` `Coze` `dify`
--   **专业辅助 (Co-pilot)**: `Perplexity` `Cursor` `VScode`
+-   **AI辅助工具 (AI-Powered Tools)**: `Perplexity` `Cursor` `VScode`
 
 #### 技术栈 (Tech Stack)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
