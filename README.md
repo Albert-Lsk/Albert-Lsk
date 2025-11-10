@@ -15,7 +15,7 @@
 </p>
 
 <details>
-<summary><strong>Click to expand English Profile / 点击展开英文简介</strong></summary>
+<summary><strong>Click to expand English Profile</strong></summary>
 <br>
 
 Hi! I'm Albert, a Product Manager based in Shenzhen, China, with a passion for the AI revolution.
@@ -63,12 +63,12 @@ My career has been a journey of 'cross-disciplinary growth'—from the systemati
 </details>
 
 <details>
-<summary><strong>点击展开中文简介 / Click to expand Chinese Profile</strong></summary>
+<summary><strong>点击展开中文简介</strong></summary>
 <br>
 
 你好！我叫Albert，一名坐标深圳的AI产品经理。
 
-从船舶工程师的严谨系统思维，到产品经理的用户中心视角，再到如今 All in AI 的浪潮之巅，我的职业路径本身就是一场“跨界成长”的实践。我深信，最好的工具，是能让人的创造力指数级增长的工具。我的使命，就是帮你找到并“驯服”它们。
+从船舶工程师的严谨系统思维，到产品经理的用户中心视角，再到如今 All in AI 的浪潮之巅，我的职业路径本身就是一场“跨界成长”的实践。
 
 ### 🔭 我当前在做什么 (What I'm Focusing On)
 
