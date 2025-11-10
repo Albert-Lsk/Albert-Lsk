@@ -55,10 +55,7 @@ My career has been a journey of 'cross-disciplinary growth'—from the systemati
 -   💬 Ask me about anything! From my past life in **MATLAB and Robotics Simulation**, my journey from **engineering to AI Product Management**, or the best ways to get started with any of the tools in my matrix.
 -   📫 The fastest way to reach me is by [email](mailto:hust.lsk1995@gmail.com).
 
-### 📊 My GitHub Stats
 
-[![Albert-Lsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk&show_icons=true&theme=onedark&commits_year=2025)](https://github.com/Albert-Lsk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Lsk&layout=compact&theme=onedark)](https://github.com/Albert-Lsk)
 
 </details>
 
@@ -103,14 +100,14 @@ My career has been a journey of 'cross-disciplinary growth'—from the systemati
 -   💬 随时可以向我提问，关于 **MATLAB/机器人仿真的老本行**、**从传统工程到AI产品的跨界经验**，或是任何AI工具的玩法！
 -   📫 联系我最快的方式：[hust.lsk1995@gmail.com]
 
+</details>
+<br>
+
 ### 📊 我的 GitHub 统计 (My GitHub Stats)
 
 [![Albert-Lsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk&show_icons=true&theme=onedark&commits_year=2025)](https://github.com/Albert-Lsk)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Lsk&layout=compact&theme=onedark)](https://github.com/Albert-Lsk)
 
-</details>
-
-<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/65d9e9e8-4d47-4b1d-99a0-cb7f44b7f7e6" alt="dino" />
 </p>
