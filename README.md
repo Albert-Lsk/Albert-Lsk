@@ -3,9 +3,9 @@
 <a href="https://www.linkedin.com/in/%E6%88%90%E6%9D%83-%E5%88%98-1670a6200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://blog.csdn.net/AlbertDS?type=blog"><img src="https://img.shields.io/badge/Tech%20Blog-CSDN-C32136?style=for-the-badge&logo=C&logoColor=white" alt="CSDN Blog"></a>
 
-> 🚀 **An AI Tool Tamer, dedicated to simplifying complex technologies.**
+> 🚀 **An AI Tool PM.**
 > 
-> 🚀 **一位AI时代的工具驯服师，致力于让复杂工具变简单。**
+> 🚀 **一位AI时代的产品。**
 
 ---
 
