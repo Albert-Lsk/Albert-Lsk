@@ -1,4 +1,5 @@
 # Hello there! 我是 Albert (ALSKai) 👋
+![be5c352d46e56f0dab31e73d103a116d](https://github.com/user-attachments/assets/f75ebc9b-84da-4631-8567-a1ec6b631727)
 
 <a href="https://www.linkedin.com/in/%E6%88%90%E6%9D%83-%E5%88%98-1670a6200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://blog.csdn.net/AlbertDS?type=blog"><img src="https://img.shields.io/badge/Tech%20Blog-CSDN-C32136?style=for-the-badge&logo=C&logoColor=white" alt="CSDN Blog"></a>
