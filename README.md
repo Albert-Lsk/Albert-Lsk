@@ -3,14 +3,14 @@
 <a href="https://www.linkedin.com/in/%E6%88%90%E6%9D%83-%E5%88%98-1670a6200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://blog.csdn.net/AlbertDS?type=blog"><img src="https://img.shields.io/badge/Tech%20Blog-CSDN-C32136?style=for-the-badge&logo=rss&logoColor=white" alt="CSDN Blog"></a>
 
-> 🚀 **AI Tool Product Manager**
+> 🚀 **AI Product Manager**
 >
-> 🚀 **AI 工具产品经理**
+> 🚀 **AI 产品经理**
 
 AI Tool Product Manager based in Shenzhen, China.  
 Focused on AI workflows, no-code automation, and practical AI tool adoption.
 
-深圳 AI 工具产品经理，关注 AI 工作流、无代码自动化与 AI 工具落地。
+AI 产品经理，关注 AI 工作流、无代码自动化与 AI 工具落地。
 
 ---
 
