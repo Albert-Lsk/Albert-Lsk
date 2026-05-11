@@ -121,8 +121,8 @@ This path has given me a deep appreciation for the power of the right tools. I b
 
 ### 📊 我的 GitHub 统计 (My GitHub Stats)
 
-[![Albert-Lsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Lsk&show_icons=true&theme=onedark&commits_year=2026)](https://github.com/Albert-Lsk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Lsk&layout=compact&theme=onedark)](https://github.com/Albert-Lsk)
+[![Albert-Lsk's GitHub stats](https://github-readme-stats-sigma-pied-83.vercel.app/api?username=Albert-Lsk&show_icons=true&theme=onedark&commits_year=2026)](https://github.com/Albert-Lsk)
+[![Top Langs](https://github-readme-stats-sigma-pied-83.vercel.app/api/top-langs/?username=Albert-Lsk&layout=compact&theme=onedark)](https://github.com/Albert-Lsk)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/65d9e9e8-4d47-4b1d-99a0-cb7f44b7f7e6" alt="dino" />
