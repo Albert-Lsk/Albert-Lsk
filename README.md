@@ -12,7 +12,7 @@ Focused on AI workflows, no-code automation, and practical AI tool adoption.
 
 AI 产品经理，关注 AI 工作流、无代码自动化与 AI 工具落地。
 
-今日开发用量 [![VibeUsage](https://vibecafe.ai/@alskai/badge)](https://vibecafe.ai/@alskai)
+今日开发用量 [![VibeUsage](https://vibecafe.ai/@alskai/badge/cost)](https://vibecafe.ai/@alskai)
 ---
 
 <p align="center">
