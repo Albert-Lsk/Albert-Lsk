@@ -1,18 +1,13 @@
 # Hello there! 我是 Albert (ALSKai) 👋
 
-<a href="https://www.linkedin.com/in/%E6%88%90%E6%9D%83-%E5%88%98-1670a6200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://blog.csdn.net/AlbertDS?type=blog"><img src="https://img.shields.io/badge/Tech%20Blog-CSDN-C32136?style=for-the-badge&logo=rss&logoColor=white" alt="CSDN Blog"></a>
-
 > 🚀 **AI Product Manager**
 >
 > 🚀 **AI 产品经理**
 
-AI Tool Product Manager based in Shenzhen, China.  
-Focused on AI workflows, no-code automation, and practical AI tool adoption.
+AI Tool Product Manager focused on practical AI workflows, automation, and accessible tool adoption.
 
-AI 产品经理，关注 AI 工作流、无代码自动化与 AI 工具落地。
+AI 产品经理，专注 AI 工作流、自动化与 AI 工具落地。
 
-今日开发用量 [![VibeUsage](https://vibecafe.ai/@alskai/badge)](https://vibecafe.ai/@alskai)
 ---
 
 <p align="center">
@@ -24,11 +19,11 @@ AI 产品经理，关注 AI 工作流、无代码自动化与 AI 工具落地。
 <summary><strong>Click to expand English Profile</strong></summary>
 <br>
 
-Hi! I'm Albert, a Product Manager based in Shenzhen, China, with a passion for AI tools and workflow automation.
+Hi! I'm Albert, an AI Product Manager focused on AI tools and workflow automation.
 
-My career has been a journey of cross-disciplinary growth: from the systematic thinking of a **Marine Engineer**, to the user-centered mindset of a **Product Manager**, and now to the hands-on practice of **AI-powered products and workflows**.
+I bring a **cross-disciplinary product and engineering background**, combining systems thinking, user-centered product design, and hands-on AI experimentation.
 
-This path has given me a deep appreciation for the power of the right tools. I believe the best technology should feel like a superpower: practical, empowering, and easy to integrate into real work. My mission is to help people find, master, and apply AI tools to solve meaningful problems.
+This background has given me a deep appreciation for the power of the right tools. I believe the best technology should feel like a superpower: practical, empowering, and easy to integrate into real work. My mission is to help people find, master, and apply AI tools to solve meaningful problems.
 
 ### 🔭 What I'm Currently Focusing On
 
@@ -63,9 +58,8 @@ This path has given me a deep appreciation for the power of the right tools. I b
 ### 🤝 Let's Connect
 
 - 👯 I’m looking to collaborate on projects involving **AI, RPA, no-code platforms, and workflow automation**.
-- 🤔 Feel free to reach out if you are exploring **AI-powered workflows**, **automation systems**, or **no-code product building**.
-- 💬 Ask me about **MATLAB and robotics simulation**, my journey from **engineering to AI product management**, or practical ways to get started with AI tools.
-- 📫 The fastest way to reach me is by [email](mailto:hust.lsk1995@gmail.com).
+- 🤔 If you are exploring **AI-powered workflows**, **automation systems**, or **no-code product building**, feel free to connect through my public GitHub projects.
+- 💬 Ask me about **MATLAB**, **robotics simulation**, **marine engineering**, **AI product management**, or practical ways to get started with AI tools.
 
 </details>
 
@@ -73,11 +67,11 @@ This path has given me a deep appreciation for the power of the right tools. I b
 <summary><strong>点击展开中文简介</strong></summary>
 <br>
 
-你好！我叫 Albert，一名坐标深圳的 AI 工具产品经理。
+你好！我是 Albert，一名专注 AI 工具与自动化工作流的产品经理。
 
-从船舶工程师的严谨系统思维，到产品经理的用户中心视角，再到如今全面投入 AI 工具与自动化工作流的实践，我的职业路径本身就是一场跨界成长。
+我具备**跨学科的产品与工程背景**，将系统思维、用户中心的产品设计与 AI 实践结合起来。
 
-这段经历让我非常相信工具的力量。好的技术不应该只是炫技，而应该像一种可被普通人掌握的“超能力”：能真正进入工作流，解决具体问题，放大人的创造力与执行力。
+这种跨学科背景让我非常相信工具的力量。好的技术不应该只是炫技，而应该像一种可被普通人掌握的“超能力”：能真正进入工作流，解决具体问题，放大人的创造力与执行力。
 
 ### 🔭 我当前在做什么
 
@@ -112,9 +106,8 @@ This path has given me a deep appreciation for the power of the right tools. I b
 ### 🤝 期待与你连接
 
 - 👯 我正在寻找对 **AI、RPA、无代码平台与自动化解决方案** 感兴趣的同路人，一起创造有趣且有用的项目。
-- 🤔 如果你正在探索 **AI 工作流搭建**、**自动化系统设计** 或 **无代码产品实践**，欢迎随时找我交流。
-- 💬 你也可以和我聊 **MATLAB / 机器人仿真**、**从传统工程到 AI 产品的跨界经验**，或任何 AI 工具的实际玩法。
-- 📫 联系我最快的方式：[hust.lsk1995@gmail.com](mailto:hust.lsk1995@gmail.com)
+- 🤔 如果你正在探索 **AI 工作流搭建**、**自动化系统设计** 或 **无代码产品实践**，欢迎通过我的 GitHub 公开项目交流。
+- 💬 你也可以和我聊 **MATLAB**、**机器人仿真**、**船舶工程**、**AI 产品管理**，或任何 AI 工具的实际玩法。
 
 </details>
 
