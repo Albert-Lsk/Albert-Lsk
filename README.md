@@ -1,4 +1,4 @@
-# Hello there! 我是 Albert (ALSKai) 👋
+# Hello there! I'm Albert (ALSKai) 👋
 
 > 🚀 **AI Product Manager**
 >
